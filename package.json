@@ -24,7 +24,7 @@
     "buffer-from": "^1.1.1",
     "country-util": "0.1.0",
     "deepmerge": "^4.2.2",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "flag-icon-css": "^2.9.0",
     "fontsource-fira-sans": "^3.0.5",
     "lodash.debounce": "^4.0.8",
